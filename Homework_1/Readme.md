@@ -2,19 +2,19 @@
 
 ## Задания
 
-![alt text](image.png)
+![1](/Homework_1/Img/image-0.png)
 
 ### Решения
 
 #### [Задание 1:](/Homework_1/Exel/Домашняя%20Работа1.xlsx)
 
-![alt text](image.png)
+![2](/Homework_1/Img/image-1.png)
 
 #### [Задание 2:](/Homework_1/Exel/Домашняя%20Работа2.xlsx)
 
-![alt text](image-1.png)
+![3](/Homework_1/Img/image.png)
 
 #### [Задание 3:](/Homework_1/Exel/Домашняя%20Работа3.xlsx)
 
-![alt text](image-2.png)
+![4](/Homework_1/Img/image-2.png)
 
