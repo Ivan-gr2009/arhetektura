@@ -20,6 +20,7 @@
 
 ![5](/Homework_1/Img/image-3.png)
 
-#### [Задание 4:](/Homework_1/Img/image-4.png)
+#### Задание 4
 
+![Задание 4:](/Homework_1/Img/image-4.png)
 
