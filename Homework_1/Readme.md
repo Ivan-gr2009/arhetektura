@@ -18,3 +18,5 @@
 
 ![4](/Homework_1/Img/image-2.png)
 
+![5](/Homework_1/Img/image-3.png)
+
